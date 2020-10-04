@@ -11,5 +11,11 @@ tableextension 50109 SOline extends "Sales Line"
         {
             DataClassification = ToBeClassified;
         }
+        field(123457896; "test name"123; Integer)
+        {
+            DataClassification = ToBeClassified;
+        }
+        
+
     }
 }
