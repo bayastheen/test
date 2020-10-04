@@ -6,5 +6,9 @@ pageextension 50109 test extends "Sales Order Subform"
         {
             Caption = 'Location';
         }
+        modify("test")
+        {
+            Caption = 'Test';
+        }
     }
 }
