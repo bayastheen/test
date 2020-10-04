@@ -1,0 +1,26 @@
+{
+  "id": "6904b37a-96d6-48c2-878c-d28f70b5c326",
+  "name": "Gross-weight",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Gross-weight.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2"
+}
